@@ -1,9 +1,11 @@
-package com.example.feedbacksystem.dao;
+package com.example.feedbacksystem;
 
-import java.util.List;
+public class FeedbackDAO {
+    void addFeedback() {
+        System.out.println("addFeedback");
+    }
 
-public interface FeedbackDAO {
-    void addFeedback(com.example.feedbacksystem.model.model feedback);
-    List<com.example.feedbacksystem.model.model> getAllFeedback();
-    void deleteFeedback(int id);
+    void getAllFeedback() {
+        System.out.println("getAllFeedback");
+    }
 }
