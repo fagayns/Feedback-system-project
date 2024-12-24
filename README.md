@@ -48,9 +48,22 @@ Saikal: wrote a presentation based on our work, was responsible for documenting 
 - Provide separate menus for users and administrators with intuitive navigation.
 
 5. # Screenshots
-6. # UML class Diagram  ![UML diagram](https://github.com/user-attachments/assets/cdc4ec95-8fe4-40d3-970a-7e4f36f8bcdc)
+   Log in screen
+   ![Снимок экрана 2024-12-24 205452](https://github.com/user-attachments/assets/da57ac56-dcdd-4ab3-b51c-edec02112279)
 
-7. # Weekly Meeting Documentation (Google docs)
+   Admin screen
+   ![Снимок экрана 2024-12-24 205503](https://github.com/user-attachments/assets/1e35cf2a-03b5-43a9-b18d-4fc07c3b3420)
+
+   Client screens
+   ![Снимок экрана 2024-12-24 205537](https://github.com/user-attachments/assets/da2cfad7-0901-4647-a983-74b3bf4cd81b)
+   ![Снимок экрана 2024-12-24 205546](https://github.com/user-attachments/assets/d845a5d8-e126-46d5-b519-b0a91ac894e9)
+
+
+
+
+7. # UML class Diagram  ![UML diagram](https://github.com/user-attachments/assets/cdc4ec95-8fe4-40d3-970a-7e4f36f8bcdc)
+
+8. # Weekly Meeting Documentation (Google docs)
    [Проектное предложение (1).docx](https://github.com/user-attachments/files/18238896/1.docx)
 
    
