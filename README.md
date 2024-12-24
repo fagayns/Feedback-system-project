@@ -3,6 +3,8 @@
 1. # Title: Feedback System
 2. # Team member List:
    Osmonalieva Ayana COMFCI-23 , Shakirova Saikal IEMIT-23
+Ayana: developed the bulk of the code, dealt with the interface and structuring of the data bases
+Saikal: wrote a presentation based on our work, was responsible for documenting our meetings and project discussions.
 3. # Description:
    The goal of the project is to develop a feedback system that will allow users to leave feedback on products, services or other facilities, and administrators or owners to analyze these reviews. The project should be structured using the principles of object-oriented programming (OOP), such as encapsulation, inheritance, polymorphism and abstraction.
 
@@ -46,10 +48,9 @@
 - Provide separate menus for users and administrators with intuitive navigation.
 
 5. # Screenshots
-6. # UML class Diagram![UML diagram]
+6. # UML class Diagram  ![UML diagram](https://github.com/user-attachments/assets/cdc4ec95-8fe4-40d3-970a-7e4f36f8bcdc)
 
-   
-8. # Weekly Meeting Documentation (Google docs)
+7. # Weekly Meeting Documentation (Google docs)
    [Проектное предложение (1).docx](https://github.com/user-attachments/files/18238896/1.docx)
 
-10. Code
+   
