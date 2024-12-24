@@ -1,8 +1,12 @@
 # Feedback-system-project
 
-1. Title:  Feedback System 
-2. Description: The goal of the project is to develop a feedback system that will allow users to leave feedback on products, services or other facilities, and administrators or owners to analyze these reviews. The project should be structured using the principles of object-oriented programming (OOP), such as encapsulation, inheritance, polymorphism and abstraction.
-3. Project Requirements List: 
+1. # Title: Feedback System
+2. # Team member List:
+   Osmonalieva Ayana COMFCI-23 , Shakirova Saikal IEMIT-23
+3. # Description:
+   The goal of the project is to develop a feedback system that will allow users to leave feedback on products, services or other facilities, and administrators or owners to analyze these reviews. The project should be structured using the principles of object-oriented programming (OOP), such as encapsulation, inheritance, polymorphism and abstraction.
+
+4. # Project Requirements List: 
 
 1)User Registration and Authentication
 - Allow users to sign up with unique credentials (e.g., username and password). 
@@ -41,8 +45,11 @@
 - Create a user-friendly console-based or graphical interface (using JavaFX). 
 - Provide separate menus for users and administrators with intuitive navigation.
 
-4. Team member List: Osmonalieva Ayana COMFCI-23 , Shakirova Saikal IEMIT-23
-5. Screenshots
-6. UML class Diagram 
-7. Weekly Meeting Documentation (Google docs)
-8. Code
+5. # Screenshots
+6. # UML class Diagram![UML diagram]
+
+   
+8. # Weekly Meeting Documentation (Google docs)
+   [Проектное предложение (1).docx](https://github.com/user-attachments/files/18238896/1.docx)
+
+10. Code
